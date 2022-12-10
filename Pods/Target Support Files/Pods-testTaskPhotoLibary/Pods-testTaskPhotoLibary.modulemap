@@ -1,0 +1,6 @@
+framework module Pods_testTaskPhotoLibary {
+  umbrella header "Pods-testTaskPhotoLibary-umbrella.h"
+
+  export *
+  module * { export * }
+}
